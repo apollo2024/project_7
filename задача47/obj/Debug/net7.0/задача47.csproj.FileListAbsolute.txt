@@ -1,0 +1,15 @@
+E:\Koko\project_7\задача47\bin\Debug\net7.0\задача47.exe
+E:\Koko\project_7\задача47\bin\Debug\net7.0\задача47.deps.json
+E:\Koko\project_7\задача47\bin\Debug\net7.0\задача47.runtimeconfig.json
+E:\Koko\project_7\задача47\bin\Debug\net7.0\задача47.dll
+E:\Koko\project_7\задача47\bin\Debug\net7.0\задача47.pdb
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.csproj.AssemblyReference.cache
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.AssemblyInfoInputs.cache
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.AssemblyInfo.cs
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.csproj.CoreCompileInputs.cache
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.dll
+E:\Koko\project_7\задача47\obj\Debug\net7.0\refint\задача47.dll
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.pdb
+E:\Koko\project_7\задача47\obj\Debug\net7.0\задача47.genruntimeconfig.cache
+E:\Koko\project_7\задача47\obj\Debug\net7.0\ref\задача47.dll
